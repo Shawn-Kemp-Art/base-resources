@@ -23,8 +23,7 @@ var tints = [
 {"Hex":"#C5D785", "Name":"Pistachio"},
 {"Hex":"#F7743E", "Name":"Tangerine"},
 {"Hex":"#1A1A1A", "Name":"Smooth Black"},
-{"Hex":"#FFFFFF", "Name":"Smooth White"},
-{"Hex":"#949B6F", "Name":"Valley Green"},
+{"Hex":"#FFFFFF", "Name":"Smooth White"}
 ]
 
 var AllColors = [
@@ -51,8 +50,7 @@ var AllColors = [
     {"Hex":"#C5D785", "Name":"Pistachio"},
     {"Hex":"#F7743E", "Name":"Tangerine"},
     {"Hex":"#1A1A1A", "Name":"Smooth Black"},
-    {"Hex":"#FFFFFF", "Name":"Smooth White"},
-    {"Hex":"#949B6F", "Name":"Valley Green"},
+    {"Hex":"#FFFFFF", "Name":"Smooth White"}
     ]
 
   var colornames = AllColors.map(color => color.Name);
@@ -81,8 +79,7 @@ var Greens =[
   {"Hex":"#01AE52", "Name":"Bright Green"},
   {"Hex":"#447560", "Name":"Celtic"},
   {"Hex":"#C4D817", "Name":"Chartreuse"},
-  {"Hex":"#C5D785", "Name":"Pistachio"},
-  {"Hex":"#949B6F", "Name":"Valley Green"},
+  {"Hex":"#C5D785", "Name":"Pistachio"}
 ];
 var Browns =[
   {"Hex":"#745042", "Name":"Burnt Sienna"},
