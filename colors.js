@@ -118,8 +118,7 @@ var Whites = [
   
   var NaturalCalm = [
     {"Hex": "#447560", "Name": "Celtic"},
-    {"Hex": "#C5D785", "Name": "Pistachio"},
-    {"Hex": "#949B6F", "Name": "Valley Green"}
+    {"Hex": "#C5D785", "Name": "Pistachio"}
   ];
   
   var VintageChic = [
@@ -286,8 +285,7 @@ var Whites = [
   
   var ForestWhisper = [
     {"Hex": "#447560", "Name": "Celtic"},
-    {"Hex": "#C5D785", "Name": "Pistachio"},
-    {"Hex": "#949B6F", "Name": "Valley Green"}
+    {"Hex": "#C5D785", "Name": "Pistachio"}
   ];
   
   var colorPalettes = [
