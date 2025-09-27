@@ -498,7 +498,6 @@ var alColors = [
 {"Hex":"#BCAC8D", "Name":"Tawny"},
 {"Hex":"#D9CEA0", "Name":"Toasted Almond"},
 {"Hex":"#95957B", "Name":"Umber"},
-{"Hex":"#949B6F", "Name":"Valley Green"},
 {"Hex":"#FEFEFE", "Name":"Very White"},
 {"Hex":"#F2F2F2", "Name":"White Pebble"},	
 ];
